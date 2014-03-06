@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13C64" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="MDMAuthor" syncable="YES">
+        <attribute name="authorName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="books" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="MDMBook" inverseName="author" inverseEntity="MDMBook" syncable="YES"/>
+    </entity>
+    <entity name="MDMBook" syncable="YES">
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="author" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MDMAuthor" inverseName="books" inverseEntity="MDMAuthor" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="MDMBook" positionX="160" positionY="192" width="128" height="75"/>
+        <element name="MDMAuthor" positionX="-92" positionY="135" width="128" height="75"/>
+    </elements>
+</model>
