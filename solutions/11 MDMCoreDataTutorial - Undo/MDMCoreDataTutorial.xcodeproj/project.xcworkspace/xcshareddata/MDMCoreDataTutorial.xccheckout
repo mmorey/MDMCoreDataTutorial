@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D2CD67A1-31E5-47D7-8CCB-4D5E4CB94C1A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MDMCoreDataTutorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1CC02E53-6031-4CF4-8846-054D243A171A</key>
+		<string>ssh://github.com/mmorey/MDMCoreDataTutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>solutions/11 MDMCoreDataTutorial - Undo/MDMCoreDataTutorial.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1CC02E53-6031-4CF4-8846-054D243A171A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/mmorey/MDMCoreDataTutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1CC02E53-6031-4CF4-8846-054D243A171A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1CC02E53-6031-4CF4-8846-054D243A171A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>material</string>
+		</dict>
+	</array>
+</dict>
+</plist>
